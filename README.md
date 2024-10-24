@@ -18,6 +18,8 @@ If a member does not communicate issues that come up and consistently miss deadl
 I, Leigh Johnston, will be the Task Manager for the team. My responsibilities are to keep an eye on everyone's progress, and communicate any issues to the other members of the team. I will also help divide the responsibilities and keep track of deadlines. I plan to work with everyone’s schedule and approach conflicts with a calm and empathetic view.
 
 ### Client Interfacer
+I, Daniela Guadarrama, will be in charge of the client interactions. I'll be responsible for sending timely emails to our clients. I will make sure the concerns and thoughts of our clients are relayed to the rest of my team. I will make sure the thoughts and concerns of my team will be made to our clients. I will schedule meetings between my team and our clients when needed. 
+
 ### Unit Tester
 ### Integration Tester
 ### Beta Test Organizer
