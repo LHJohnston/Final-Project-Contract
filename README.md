@@ -15,6 +15,8 @@ If a member does not communicate issues that come up and consistently miss deadl
 
 ## Roles
 ### Task Manager
+I, Leigh Johnston, will be the Task Manager for the team. My responsibilities are to keep an eye on everyone's progress, and communicate any issues to the other members of the team. I will also help divide the responsibilities and keep track of deadlines. I plan to work with everyone’s schedule and approach conflicts with a calm and empathetic view.
+
 ### Client Interfacer
 ### Unit Tester
 ### Integration Tester
