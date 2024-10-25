@@ -27,3 +27,4 @@ I, Colin Phillips, will be overseeing the creation of unit tests. I will determi
 I, Justin Grubbs, will be responsible for integration testing. I will work to ensure that the interaction between components is as seamless as possible. I will also work with the unit tester to create effective tests for these components. 
 
 ### Beta Test Organizer
+I, Amelia Jones, will be responsible for organizing the beta testing phase of our app. I will design the user feedback form to gather information on our second prototype during A/B testing. I will then use the information to create a detailed report, and work with the team to ensure that the feedback is applied to the final prototype.
