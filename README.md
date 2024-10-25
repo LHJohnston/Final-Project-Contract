@@ -21,5 +21,7 @@ I, Leigh Johnston, will be the Task Manager for the team. My responsibilities ar
 I, Daniela Guadarrama, will be in charge of the client interactions. I'll be responsible for sending timely emails to our clients. I will make sure the concerns and thoughts of our clients are relayed to the rest of my team. I will make sure the thoughts and concerns of my team will be made to our clients. I will schedule meetings between my team and our clients when needed. 
 
 ### Unit Tester
+I, Colin Phillips, will be overseeing the creation of unit tests. I will determine the critical components of our program that would benefit from unit tests, and work with the people who wrote those components to create the unit tests. I will also periodically remind the team to run the unit tests whenever changes are made. I will work to maintain and organize the unit tests created by the team.
+
 ### Integration Tester
 ### Beta Test Organizer
