@@ -24,4 +24,6 @@ I, Daniela Guadarrama, will be in charge of the client interactions. I'll be res
 I, Colin Phillips, will be overseeing the creation of unit tests. I will determine the critical components of our program that would benefit from unit tests, and work with the people who wrote those components to create the unit tests. I will also periodically remind the team to run the unit tests whenever changes are made. I will work to maintain and organize the unit tests created by the team.
 
 ### Integration Tester
+I, Justin Grubbs, will be responsible for integration testing. I will work to ensure that the interaction between components is as seamless as possible. I will also work with the unit tester to create effective tests for these components. 
+
 ### Beta Test Organizer
